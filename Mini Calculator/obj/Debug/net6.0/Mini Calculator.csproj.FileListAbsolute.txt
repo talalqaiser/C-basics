@@ -1,0 +1,15 @@
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.csproj.AssemblyReference.cache
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.AssemblyInfoInputs.cache
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.AssemblyInfo.cs
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.csproj.CoreCompileInputs.cache
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.exe
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.deps.json
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.runtimeconfig.json
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.dll
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\bin\Debug\net6.0\Mini Calculator.pdb
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.dll
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\refint\Mini Calculator.dll
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.pdb
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\Mini Calculator.genruntimeconfig.cache
+C:\Studies\Masters\C# Practice\Mini Calculator\Mini Calculator\Mini Calculator\obj\Debug\net6.0\ref\Mini Calculator.dll
