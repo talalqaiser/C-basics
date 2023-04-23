@@ -1,0 +1,15 @@
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\bin\Debug\net6.0\CalulatingPower.exe
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\bin\Debug\net6.0\CalulatingPower.deps.json
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\bin\Debug\net6.0\CalulatingPower.runtimeconfig.json
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\bin\Debug\net6.0\CalulatingPower.dll
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\bin\Debug\net6.0\CalulatingPower.pdb
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.csproj.AssemblyReference.cache
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.AssemblyInfoInputs.cache
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.AssemblyInfo.cs
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.csproj.CoreCompileInputs.cache
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.dll
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\refint\CalulatingPower.dll
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.pdb
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\CalulatingPower.genruntimeconfig.cache
+C:\Studies\Masters\C# Practice\CalulatingPower\CalulatingPower\obj\Debug\net6.0\ref\CalulatingPower.dll
